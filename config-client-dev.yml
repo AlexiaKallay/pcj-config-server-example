@@ -1,1 +1,3 @@
 message: Hello from DEV environment
+role: developer
+number: 11
