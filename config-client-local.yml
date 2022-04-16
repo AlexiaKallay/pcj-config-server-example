@@ -1,1 +1,3 @@
-message: Hello from LOCAL env
+message: Hello from LOCAL environment
+role: local developer :D
+number: 12
